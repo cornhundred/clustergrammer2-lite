@@ -38,6 +38,11 @@
       },
       {
         "extension": "./extension",
+        "load": "static/remoteEntry.4c8a0d79754fcf4e4a1d.js",
+        "name": "clustergrammer2"
+      },
+      {
+        "extension": "./extension",
         "load": "static/remoteEntry.5459894d80c1201f22ae.js",
         "name": "ipycanvas"
       },
